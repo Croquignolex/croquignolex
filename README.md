@@ -1,4 +1,4 @@
-# Bonjour ! 👋 Je suis [Croquignolex]
+# Bonjour ! 👋 Je suis [Croquignolex](https://croquignolex.pages.dev)
 
 Développeur web full stack passionné, spécialisé dans les technologies PHP, JavaScript-TypeScript, Java, et SQL. J'aime créer des applications web performantes et intuitives tout en garantissant une expérience utilisateur optimale.
 
@@ -32,3 +32,6 @@ Vous pouvez me contacter via :
 - **LinkedIn** : [Alex NGOMBOL](https://www.linkedin.com/in/croquignolex) 
 
 Merci de visiter mon profil ! 😊
+
+![Croquignolex's GitHub stats](https://github-readme-stats.vercel.app/api?username=croquignolex&include_all_commits=true&show=prs_merged_percentage&hide=issues,contribs&show_icons=true&theme=transparent)
+
