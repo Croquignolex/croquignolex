@@ -9,6 +9,15 @@ Développeur web full stack passionné, spécialisé dans les technologies PHP, 
 - **Bases de données** : MySQL, Oracle, MongoDB
 - **Outils et technologies** : Git, Docker, REST APIs
 
+![PHP](https://img.shields.io/badge/PHP-787CB5?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?logo=typescript&logoColor=black) 
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-ea2845?logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
+![Laravel](https://img.shields.io/badge/Laravel-2496ED?logo=laravel&color=white)
+
 ## 🌱 En cours d'apprentissage
 
 Je m'efforce constamment d'améliorer mes compétences et d'apprendre de nouvelles technologies. Actuellement, je m'intéresse à :
@@ -16,6 +25,10 @@ Je m'efforce constamment d'améliorer mes compétences et d'apprendre de nouvell
 - Phyton
 - DevOps
 - GraphQL
+
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-316192?logo=python&color=white)
 
 ## 💼 Quelque projets
 
